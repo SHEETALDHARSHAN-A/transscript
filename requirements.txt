@@ -1,0 +1,13 @@
+fastapi
+python-multipart
+pymongo
+sounddevice
+numpy
+python-docx
+PyMuPDF
+openai
+python-dotenv
+uvicorn
+aiohttp
+pydantic
+agents
